@@ -18,7 +18,7 @@ Fuente: Base de datos histórica de ConnectaTel. Datos demográficos y de consum
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlerAlfredo/Analysis-ConnectaTel/blob/main/S7_Version_Estudiante_Project_ConnectaTel.ipynb)
 
 O:
 
